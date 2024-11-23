@@ -8,3 +8,4 @@ Il est possible de se déplacer sur une carte et d'y placer des portails pour ac
 
 Le projets n'est pas fini
 
+Pour la réalisation de ce projet j'ai utilisé Dosbox pour simuler un environnement permettants l'utilsiation des fichiers asm
